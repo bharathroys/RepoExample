@@ -1,3 +1,5 @@
 first line in sample from main repository
 
 second line in sample from main repository
+
+third line
